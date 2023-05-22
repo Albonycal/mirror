@@ -1,1 +1,6 @@
-# mirror
+# mirror.albony.xyz
+
+RSYNC CODE for MIRROR.ALBONY.XYZ 
+
+A MIRROR SERVICE FOR OPENSORUCE PROJECTS
+
